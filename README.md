@@ -20,4 +20,4 @@ Run the program:
 Execute the script using the command:
      python <script_name>.py
 
-Example:- python app.py
+Example:- python AI-Powered Logo Builder Utilizing OpenAI’s DALL·E and Gradio Interface.py
